@@ -66,7 +66,8 @@ print(str(response))
 ```
 
 ### OUTPUT:
-
-
+![N1](EXP41.png)
+![N1](EXP42.png)
+![N1](EXP43.png)
 ### RESULT:
 The system successfully retrieves and synthesizes relevant information from multiple documents, providing concise and relevant answers to the user's query. Performance is evaluated based on the accuracy, relevance, and coherence of the responses.    
